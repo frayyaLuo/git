@@ -8,3 +8,5 @@ git remote add origin git@github.com:frayyaLuo/git.git
 
 $ ssh-keygen -t rsa -C "493808736@qq.com"
 Creating a new branch is quick.
+
+Creating a new branch is quick & simple.
