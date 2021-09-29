@@ -2,3 +2,9 @@ Git is a distributed version control system.
 Git is free software append GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
+
+git remote add origin git@github.com:michaelliao/learngit.git
+git remote add origin git@github.com:frayyaLuo/git.git
+
+$ ssh-keygen -t rsa -C "493808736@qq.com"
+Creating a new branch is quick.
